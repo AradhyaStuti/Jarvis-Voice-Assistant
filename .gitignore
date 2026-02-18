@@ -1,0 +1,10 @@
+# Virtual Environment
+myenv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
