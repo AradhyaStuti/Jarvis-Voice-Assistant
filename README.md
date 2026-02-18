@@ -52,7 +52,7 @@ jarvis-voice-assistant/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/jarvis-voice-assistant.git
+git clone https://github.com/AradhyaStuti/Jarvis-Voice-Assistant.git
 cd jarvis-voice-assistant
 ```
 
@@ -143,7 +143,7 @@ This project is licensed under the MIT License.
 ## 👨‍💻 Author
 
 **Your Name**
-GitHub: [https://github.com/your-username](https://github.com/your-username)
+GitHub: [https://github.com/AradhyaStuti]
 
 ---
 
